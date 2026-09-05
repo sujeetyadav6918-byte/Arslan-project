@@ -26,12 +26,20 @@ function Navbar() {
           {/* LOGO */}
 
           <Link
-            to="/"
-            className="text-2xl font-bold text-slate-800"
-            onClick={closeMenu}
-          >
-            FRA<span className="text-blue-600">MIX</span>
-          </Link>
+  to="/"
+  className="flex items-center gap-2"
+  onClick={closeMenu}
+>
+ <img
+  src="/file_0000000040c08211b51a15aa6d3da96c%20(1).png"
+  alt="FRAMIX Logo"
+  className="w-10 h-10 object-contain rounded-full"
+/>
+
+  <span className="text-2xl font-bold text-slate-800">
+    FRA<span className="text-blue-600">MIX</span>
+  </span>
+</Link>
 
 
           {/* DESKTOP MENU */}
