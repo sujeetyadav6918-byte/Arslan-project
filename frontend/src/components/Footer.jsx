@@ -19,10 +19,10 @@ function Footer() {
             </h2>
 
             <p className="text-slate-400 mt-4 leading-relaxed">
-             📞 Phone: 8928517101
+             📞 Phone: 7219705977
             </p>
             <p className="text-slate-400 mt-4 leading-relaxed">
-             📧 Email: arslansayyed91@gmail.com
+             📧 Email: sujalmishra2930@gmail.com
             </p>
 
           </div>
