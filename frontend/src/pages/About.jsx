@@ -74,7 +74,7 @@ Available for: Freelance Projects • Reels • Shorts • Photo Editing • Soc
             </h2>
 
             <p className="text-slate-300 mt-6 leading-relaxed">
-              Hi, I’m Arslan Sayyed, a passionate Video & Photo Editor And Photo & Video Grapher with 3+ years of experience in creating engaging, modern, and professional visual content
+              Hi, I’m ratnesh mishra, a passionate Video & Photo Editor And Photo & Video Grapher with 3+ years of experience in creating engaging, modern, and professional visual content
             </p>
 
             <p className="text-slate-300 mt-4 leading-relaxed">
